@@ -5,4 +5,4 @@ Dieses Projekt modelliert das Brettspiel Mensch ärgere nicht als Klassen- und  
 
 Data Dictonary sowie die anderen Diagramme befinden sich in der Präsentation.
 
-Authors: Wael Alkahalle, Jan Hammer, Norman Scheurig
+Authors: Wael Alkahhaleh, Jan Hammer, Norman Scheurig
