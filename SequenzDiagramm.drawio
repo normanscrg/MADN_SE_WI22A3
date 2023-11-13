@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T12:32:16.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EZQc_VUm7e2TDogAb5CD" version="22.1.0" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-13T14:40:53.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="aaYJ-JvRc0Uqr0m8X9GP" version="22.1.0" type="github">
   <diagram name="Seite-1" id="UCT9QxT9f-nRKCtBicOB">
-    <mxGraphModel dx="1114" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
             <mxPoint x="252" y="985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tSBpWanuPTr_5rLlkDVL-76" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;5.2.2Gibt nachfolgendes Feld zurück&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="tSBpWanuPTr_5rLlkDVL-76" value="5.2.2 Neue Position wird zurückgegeben" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="929" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tSBpWanuPTr_5rLlkDVL-78" value="" style="endArrow=open;html=1;curved=1;strokeWidth=1;endFill=0;dashed=1;dashPattern=8 8;fontSize=6;" parent="1" target="QJh97lIsgSTJYA66oceY-54" edge="1">
@@ -170,7 +170,7 @@
             <mxPoint x="507" y="784" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tSBpWanuPTr_5rLlkDVL-89" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;5.1.4 Geschlagene Figur auf dem Feld wird zurück gestellt&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="tSBpWanuPTr_5rLlkDVL-89" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;5.1.4 Geschlagene Figur wird&amp;nbsp; vom Feld gestellt&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="708" width="97" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tSBpWanuPTr_5rLlkDVL-90" value="" style="endArrow=openThin;html=1;rounded=0;endFill=0;strokeWidth=1;dashed=1;dashPattern=8 8;fontSize=6;" parent="1" edge="1">
